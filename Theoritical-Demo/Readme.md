@@ -1,4 +1,4 @@
-#Digital Passport using BlockChain Technology
+# Digital Passport using BlockChain Technology
 
 Applying for a new passport takes a lot of time and includes a long procedure. If the passport is gone it will be very difficult to get it again. These procedures may take a few days sometimes more than a week. This problem can be avoided by using 'Digitial Passport'.
 
@@ -8,7 +8,7 @@ Each user will be given an individual public key which is used in the blocks to 
 
 A unique QR code is given for every digital passport so for validation of the passport the person can scan the QR code and can check the validation of the Digital Passport.
 
-##Algorithm:
+## Algorithm:
 
 Step 1:  Photo of a Citizen
 A passport size photo of the enrolling citizen has to be taken using a webcam.
