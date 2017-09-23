@@ -10,7 +10,7 @@ A unique QR code is given for every digital passport so for validation of the pa
 
 ## Algorithm:
 
-### Step 1:Photo of a Citizen
+### Step 1: Photo of a Citizen
 
 A passport size photo of the enrolling citizen has to be taken using a webcam.
 
