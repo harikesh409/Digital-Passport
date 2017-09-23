@@ -1,8 +1,8 @@
 # Digital Passport using BlockChain Technology
 
-Applying for a new passport takes a lot of time and includes a long procedure. If the passport is gone it will be very difficult to get it again. These procedures may take a few days sometimes more than a week. This problem can be avoided by using 'Digitial Passport'.
+Applying for a new passport takes a lot of time and includes a long procedure. If a passport is lost it is difficult to get another. These procedures may take a few days ,sometimes more than even a week. This problem can be avoided by using 'Digitial Passport'.
 
-Digital Passports are created by the secured data of the user and it uses 'BlockChain' technology through which information will be stored in each block and can be retrieved easily even if the passport is gone.
+Digital Passports are created by the secured data of the user and it uses 'BlockChain' technology through which information will be stored in each block and can be retrieved easily upon loss of the physical passport.
 
 Each user will be given an individual public key which is used in the blocks to store the log files of the particular citizen passport.So in any circumstance if the passport is misplaced it can be easily recovered as the log file of that particular citizen is present in every system in the network pool.
 
