@@ -10,17 +10,25 @@ A unique QR code is given for every digital passport so for validation of the pa
 
 ## Algorithm:
 
-Step 1:  Photo of a Citizen
+Step 1: ### Photo of a Citizen
+
 A passport size photo of the enrolling citizen has to be taken using a webcam.
-Step 2:  Merkle Root
+
+
+Step 2: ### Merkle Root
 Merkle Root is obtained either from blockchain.info , insight.bitpay.com
+
 Step 3:  Block Number
 A block number corresponding to the generated merkle root from above step is taken.
-Step 4:  Timestamp
+
+Step 4: ### Timestamp
 The current time (i.e.  the time of generating the digital passport) is taken and added to the digital passport.According to this time stamp an expiry date to the digital passport is given.
+
 Step 5:  Name
 The full name of the citizen is taken as input and added to the digital passport.
+
 Step 6:  PGP key
 The citizen is provided with a laptop and is taken to a private room and using an PGP software they will generate a PGP key which acts as a private key and it will be a secret key and will be present only with the citizen.
+
 Step 7: Authentication Service
 It is done using keybase.io website. Using this an QR code is generated and can be given to every user uniquely.
