@@ -8,6 +8,12 @@ Each user will be given an individual public key which is used in the blocks to 
 
 A unique QR code is given for every digital passport so for validation of the passport the person can scan the QR code and can check the validation of the Digital Passport.
 
+## Flowchart:
+
+
+![Flowchart](https://github.com/harikesh409/Digital-Passport/blob/gh-pages/Theoritical-Demo/Flow%20chart.png?raw=true)
+
+
 ## Algorithm:
 
 ### Step 1: Photo of a Citizen
